@@ -6,7 +6,7 @@ This is an ESP32 Access Point code.
 
 This project sets up an ESP32 microcontroller as a Wi-Fi access point, allowing other devices to connect to it. It can be used for various IoT applications where a local network is required without relying on external Wi-Fi infrastructure.
 
-You can use the [ESP32TCP-IP](https://github.com/Xtalism/ESP32TCP-IP) code I have in my repository so you can connect to the access point whenever you like. This code also works with multiple ESP32'S. If you'd like to add more than 2 ESP32'S you'd need to change the [ESP32AP](https://github.com/Xtalism/ESP32AP) code in order to add as much clients as you'd like it to be.
+You can use the [ESP32TCP-IP](https://github.com/Xtalism/ESP32TCP-IP) code I have on my repository so you can connect to the access point whenever you like. This code also works with multiple ESP32'S. If you'd like to add more than 2 ESP32'S you'd need to change the [ESP32AP](https://github.com/Xtalism/ESP32AP) code in order to add as much clients as you'd like it to be.
 
 ## Documentation
 
